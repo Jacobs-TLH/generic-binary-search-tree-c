@@ -1,0 +1,21 @@
+# IDE files
+.idea/
+
+# CMake build folders
+cmake-build-debug/
+cmake-build-release/
+build/
+
+# Generated CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Archives and assignment files
+*.zip
+*.pdf
+
+# Executables
+*.exe
+*.out
